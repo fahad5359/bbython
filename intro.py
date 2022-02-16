@@ -10,8 +10,29 @@
 # # print(cars +anmails);
 # print(cars[1])
 
-# ////////////////////////////////////////////// section 1 varibles in python ////////////////////////////////////////////
+# ////////////////////////////////////////////// section 1 varibles ,input/ootput in python ////////////////////////////////////////////
 
-nem = "fahad";
-age = 50;
-print(nem,age)
+# nem = "fahad";
+# age = 50;
+# print(nem,age)
+
+
+#  we can  makke the user writ input by using the "input()" function.
+# we can save varibles in the input() function by just writing in it
+# my_nem=input()
+# print("helloo",my_nem)
+# # print(input())
+
+# جرب تلعب فيها وتجرب طرق واجد
+# age=input("enter age :")
+# print("you are", age ,"years old")
+#                                                           hw
+# "wow ("nem"),you are ("age"), years old ,
+
+age=input("enter age")
+nem=input("enter nem")
+
+print("wow",nem,"you are",age,"years  old ?")
+
+
+# ////////////////////////////////////////////// section 2 datatypes ////////////////////////////////////////////
