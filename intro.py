@@ -32,7 +32,8 @@
 age=input("enter age")
 nem=input("enter nem")
 
-print("wow",nem,"you are",age,"years  old ?")
-
+print("wow",nem,"you are",age,"years  old ")
+# output example: wow  fahad you are  30 years  old
 
 # ////////////////////////////////////////////// section 2 datatypes ////////////////////////////////////////////
+
